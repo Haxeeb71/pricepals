@@ -78,11 +78,6 @@ lib/
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-Your Name - [@YourTwitter](https://twitter.com/YourTwitter)
-
-Project Link: [https://github.com/[YourUsername]/pricepals](https://github.com/[YourUsername]/pricepals)
 
 ## Acknowledgments
 
